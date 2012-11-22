@@ -1,0 +1,2 @@
+recursive-include monmonmon/templates *
+recursive-include monmonmon/static *
